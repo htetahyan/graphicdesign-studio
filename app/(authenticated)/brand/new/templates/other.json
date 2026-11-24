@@ -1,0 +1,67 @@
+[
+  {
+    "id": "other_1",
+    "industryId": "other",
+    "name": "Professional Service",
+    "imageUrl": "/templates/other/1.jpg",
+    "designData": {
+      "style": "professional",
+      "layout": "clean",
+      "composition": "trustworthy",
+      "mood": "reliable",
+      "elements": ["blue_tones", "clean_lines", "professional_type"]
+    }
+  },
+  {
+    "id": "other_2",
+    "industryId": "other",
+    "name": "Creative Agency",
+    "imageUrl": "/templates/other/2.jpg",
+    "designData": {
+      "style": "creative",
+      "layout": "artistic",
+      "composition": "unique",
+      "mood": "innovative",
+      "elements": ["bold_colors", "abstract_shapes", "modern_type"]
+    }
+  },
+  {
+    "id": "other_3",
+    "industryId": "other",
+    "name": "Local Business",
+    "imageUrl": "/templates/other/3.jpg",
+    "designData": {
+      "style": "friendly",
+      "layout": "community",
+      "composition": "welcoming",
+      "mood": "neighborly",
+      "elements": ["warm_colors", "local_icons", "approachable_type"]
+    }
+  },
+  {
+    "id": "other_4",
+    "industryId": "other",
+    "name": "Event Service",
+    "imageUrl": "/templates/other/4.jpg",
+    "designData": {
+      "style": "festive",
+      "layout": "celebration",
+      "composition": "exciting",
+      "mood": "memorable",
+      "elements": ["decorative_elements", "elegant_type", "special_occasion"]
+    }
+  },
+  {
+    "id": "other_5",
+    "industryId": "other",
+    "name": "Consulting",
+    "imageUrl": "/templates/other/5.jpg",
+    "designData": {
+      "style": "corporate",
+      "layout": "executive",
+      "composition": "authoritative",
+      "mood": "expert",
+      "elements": ["neutral_palette", "data_visuals", "clean_infographics"]
+    }
+  }
+]

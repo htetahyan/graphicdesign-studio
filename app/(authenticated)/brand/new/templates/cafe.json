@@ -1,0 +1,67 @@
+[
+  {
+    "id": "cafe_1",
+    "industryId": "cafe",
+    "name": "Cozy Warm Cup",
+    "imageUrl": "/templates/cafe/1.jpg",
+    "designData": {
+      "style": "cozy",
+      "layout": "centered",
+      "composition": "symmetrical",
+      "mood": "warm",
+      "elements": ["steam", "warm_tones", "rounded_type"]
+    }
+  },
+  {
+    "id": "cafe_2",
+    "industryId": "cafe",
+    "name": "Modern Brew",
+    "imageUrl": "/templates/cafe/2.jpg",
+    "designData": {
+      "style": "modern",
+      "layout": "grid",
+      "composition": "flat_lay",
+      "mood": "minimal",
+      "elements": ["top_down", "neutral_palette", "geometric"]
+    }
+  },
+  {
+    "id": "cafe_3",
+    "industryId": "cafe",
+    "name": "Rustic Bakery",
+    "imageUrl": "/templates/cafe/3.jpg",
+    "designData": {
+      "style": "rustic",
+      "layout": "editorial",
+      "composition": "scattered",
+      "mood": "homey",
+      "elements": ["paper_texture", "handwritten_font", "kraft"]
+    }
+  },
+  {
+    "id": "cafe_4",
+    "industryId": "cafe",
+    "name": "Pastel Sweet",
+    "imageUrl": "/templates/cafe/4.jpg",
+    "designData": {
+      "style": "cute",
+      "layout": "stacked",
+      "composition": "centered",
+      "mood": "playful",
+      "elements": ["pastel", "illustrations", "soft_shadow"]
+    }
+  },
+  {
+    "id": "cafe_5",
+    "industryId": "cafe",
+    "name": "Dark Roast",
+    "imageUrl": "/templates/cafe/5.jpg",
+    "designData": {
+      "style": "bold",
+      "layout": "full_bleed",
+      "composition": "dramatic",
+      "mood": "intense",
+      "elements": ["dark_bg", "contrast_type", "moody_light"]
+    }
+  }
+]

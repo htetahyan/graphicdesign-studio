@@ -1,0 +1,461 @@
+[
+  {
+    "id": "education_1",
+    "industryId": "education",
+    "name": "Academic Excellence",
+    "imageUrl": "https://e2nybhdgyw.ufs.sh/f/yxRjwgp6sEZi31h67KJfJEyR42MjeOTNuAdSivFKPbloaCqw",
+    "designData": {
+  "design_core": {
+    "type": "Educational Social Media Poster",
+    "industry": "Education & Certification",
+    "brand_name": "Cochin International Language Academy (CILA)",
+    "theme": "Exam Preparation / Assessment Tips",
+    "visual_style": "Modern Corporate Educational, Split Layout",
+    "color_palette": {
+      "background_primary": "Deep Navy Blue",
+      "typography_primary": "White and Vibrant Yellow",
+      "accents": "Orange, Red, Green, and Light Blue (used for list icons)",
+      "footer_background": "Solid White"
+    }
+  },
+  "visual_composition": {
+    "background_layer": {
+      "elements": "Solid deep navy blue with a very subtle radial gradient to keep the focus on the text and the subject. A white curved graphic framing the right side."
+    },
+    "hero_element": {
+      "description": "A smiling young South Asian woman",
+      "attire": "Casual blue denim overshirt with a white t-shirt",
+      "pose": "Standing confidently, holding two notebooks/textbooks close to her chest.",
+      "placement": "Right side of the frame, emerging from the white curved boundary."
+    },
+    "graphic_overlays": {
+      "floating_prop": {
+        "object": "3D Graduation Cap (Mortarboard)",
+        "details": "Black cap with a bright yellow tassel, floating above the model's head."
+      },
+      "list_containers": {
+        "style": "Four rounded rectangular tabs styled like speech bubbles pointing to the left, each with a circular icon badge."
+      },
+      "footer_divider": {
+        "style": "Torn paper edge effect separating the blue main section from the white footer."
+      },
+      "partner_logo": {
+        "placement": "Top right edge, rotated vertically",
+        "text": "TRINITY COLLEGE LONDON - Validated Course Provider 47793"
+      }
+    }
+  },
+  "typography_and_text": {
+    "headlines": {
+      "lead_in": {
+        "text": "Feeling nervous about",
+        "style": "Medium-weight sans-serif, White"
+      },
+      "main_title": {
+        "text": "CertTESOL",
+        "style": "Large, Bold, uppercase sans-serif, Vibrant Yellow"
+      },
+      "sub_title": {
+        "text": "ASSESSMENTS?",
+        "style": "Large, Bold, uppercase sans-serif, White, placed on a dark blue rectangular banner"
+      },
+      "instruction_header": {
+        "text": "Here's how to prepare",
+        "style": "White text inside a rounded blue pill-shape with a thin yellow outline"
+      }
+    },
+    "informational_list": {
+      "items": [
+        {
+          "title": "Prepare Thoroughly",
+          "body": "Review lesson plans and teaching theories",
+          "icon": "Document/Map icon on an orange circle"
+        },
+        {
+          "title": "Practice Real Teaching",
+          "body": "Gain confidence by teaching friends or peers",
+          "icon": "Two people/students icon on a red circle"
+        },
+        {
+          "title": "Engage with Feedback",
+          "body": "Use your tutors' feedback to improve continuously",
+          "icon": "Video feedback icon on a green circle"
+        },
+        {
+          "title": "Stay Calm & Confident",
+          "body": "Believe in your skills & stay focused during assessments",
+          "icon": "Target/Focus icon on a light blue circle"
+        }
+      ],
+      "style": "Title in bold colors matching the icons, body in white, all set against translucent dark blue backgrounds."
+    },
+    "footer_section": {
+      "cta_button": {
+        "text": "CONTACT US!",
+        "icon": "Telephone symbol",
+        "style": "Dark blue pill-shaped button overlapping the torn paper edge"
+      },
+      "brand_identity": {
+        "logo": "CILA circular logo",
+        "text": "COCHIN INTERNATIONAL\nLANGUAGE ACADEMY",
+        "placement": "Bottom left"
+      },
+      "contact_info": {
+        "phone": "9961596480\n9496160179",
+        "website": "www.cilakerala.com",
+        "style": "Black text with corresponding icons, aligned bottom right"
+      }
+    }
+  }
+}},
+  {
+    "id": "education_2",
+    "industryId": "education",
+    "name": "College Admissions",
+    "imageUrl": "https://e2nybhdgyw.ufs.sh/f/yxRjwgp6sEZifKdqMWaZNl3CLVuygw92JeFGEQDdaHkcfKo6",
+    "designData": {
+  "design_core": {
+    "type": "Educational Social Media Poster / Admissions Flyer",
+    "industry": "Higher Education",
+    "brand_name": "Karpagam Academy of Higher Education",
+    "theme": "College Admissions & Career Opportunities",
+    "visual_style": "Modern Academic, Clean, Photo-composite with Geometric Shapes",
+    "color_palette": {
+      "background_primary": "Bright Sky Blue and White (top half)",
+      "brand_primary": "Dark Forest Green (used for text blocks, footer, and shapes)",
+      "accents": "Teal/Mint Green (used for buttons, highlights, and bullet points)",
+      "typography_primary": "White, Dark Green, and Teal"
+    }
+  },
+  "visual_composition": {
+    "background_layer": {
+      "elements": "The top section features a clear blue sky with soft white clouds, symbolizing a bright future. The middle-left section contains a faded, monochromatic dark green watermark/overlay of the campus building behind the text."
+    },
+    "hero_element": {
+      "description": "A smiling young South Asian female student.",
+      "attire": "Green and white checkered shirt over a white t-shirt, wearing a black backpack.",
+      "pose": "Standing confidently, holding a stack of colorful books (pink, blue, green) to her chest.",
+      "placement": "Right side of the frame, emerging dynamically from a large dark green circular graphic."
+    },
+    "graphic_overlays": {
+      "certifications": {
+        "placement": "Top left, next to the brand logo",
+        "description": "Red and gold 'NAAC A+' accredited badge"
+      },
+      "shape_elements": {
+        "description": "A dark green circular backdrop framing the student, and a teal horizontal pill shape situated below her for visual balance."
+      }
+    }
+  },
+  "typography_and_text": {
+    "header_section": {
+      "status": {
+        "text": "ADMISSIONS OPEN",
+        "style": "Bold, dark green sans-serif, top right."
+      },
+      "year": {
+        "text": "ACADEMIC YEAR 2025 - 2026",
+        "style": "Dark green text with '2025 - 2026' enclosed in a teal pill shape."
+      },
+      "callout": {
+        "text": "JOIN @ KARPAGAM",
+        "style": "Dark green text curving along the edge of the circular graphic behind the student."
+      }
+    },
+    "course_details": {
+      "title_main": {
+        "text": "B.Com",
+        "style": "Large, bold Teal sans-serif with a vertical bar element on the left."
+      },
+      "title_sub": {
+        "text": "Bachelor of Commerce",
+        "style": "Medium, bold Dark Green sans-serif."
+      }
+    },
+    "career_opportunities": {
+      "header_1": {
+        "text": "CAREER",
+        "style": "Large, bold White text."
+      },
+      "header_2": {
+        "text": "OPPORTUNITIES",
+        "style": "Medium, bold Teal text."
+      },
+      "list_items": {
+        "items": [
+          "Accounting & Finance",
+          "Banking & Insurance",
+          "E-commerce Specialist",
+          "Sustainability Consultant",
+          "International Trade & Customs Advisor",
+          "Investment Analyst"
+        ],
+        "style": "White text with glowing teal bullet points, set against the dark green campus background."
+      }
+    },
+    "call_to_action": {
+      "button": {
+        "text": "APPLY NOW",
+        "style": "White text on a solid Teal pill-shaped button, bottom left."
+      }
+    },
+    "footer_section": {
+      "background": "Solid Dark Green rectangular block spanning the bottom width.",
+      "admissions_contact": {
+        "text": "For Admissions : 93840 49305, 93840 49307",
+        "style": "Bold White text."
+      },
+      "address": {
+        "text": "Pollachi Main Road, Eachanari Post, Coimbatore - 641021",
+        "style": "Light White text."
+      },
+      "email": {
+        "text": "E: admissions@kahedu.edu.in",
+        "style": "Light White text."
+      },
+      "social_and_web": {
+        "social_handle": "wekaheians (with LinkedIn, Instagram, X, Facebook, YouTube icons)",
+        "website": "www.kahedu.edu.in (with globe icon)",
+        "placement": "Bottom right corner, aligned neatly."
+      }
+    }
+  }
+}
+  },
+  {
+    "id": "education_3",
+    "industryId": "education",
+    "name": "Fast-Track Education",
+    "imageUrl": "https://e2nybhdgyw.ufs.sh/f/yxRjwgp6sEZi3vneWcfJEyR42MjeOTNuAdSivFKPbloaCqwn",
+    "designData": {
+  "design_core": {
+    "type": "Educational Promotional Advertisement",
+    "industry": "Higher Education / Online Learning",
+    "brand_name": "INSPIRE University College",
+    "theme": "Aspirational / Fast-Track Education",
+    "visual_style": "Photo-composite, Modern, Aspirational",
+    "color_palette": {
+      "background_primary": "Soft misty grey/blue (cityscape)",
+      "typography_primary": "Navy Blue and White",
+      "accents": "Teal and Brown (graduation gown details), Green (WhatsApp icon)"
+    }
+  },
+  "visual_composition": {
+    "background_layer": {
+      "elements": "A hazy, bright cityscape viewed from a high vantage point, symbolizing limitless potential and looking towards the future."
+    },
+    "hero_element": {
+      "description": "A student wearing graduation attire, viewed from behind.",
+      "attire": "Black graduation gown with a shiny teal/blue yoke and brown fringe, topped with a black mortarboard cap and tassel.",
+      "pose": "Standing on a textured concrete ledge, gazing out over the expansive city.",
+      "placement": "Right side, anchoring the composition vertically."
+    },
+    "graphic_overlays": {
+      "program_tags": {
+        "style": "Grid of white rounded rectangular boxes with navy text."
+      },
+      "sub_headline_banner": {
+        "style": "Dark navy blue rounded rectangle behind white text."
+      }
+    }
+  },
+  "typography_and_text": {
+    "top_bar": {
+      "website": {
+        "text": "www.edusupportme.com",
+        "icon": "Link symbol",
+        "placement": "Top left, Navy Blue"
+      },
+      "brand": {
+        "logo": "Hexagonal icon with a book inside",
+        "name": "INSPIRE\nUNIVERSITY COLLEGE",
+        "placement": "Top right, Navy Blue"
+      }
+    },
+    "headlines": {
+      "main_title": {
+        "text": "WHY\nLIMIT\nYOU?",
+        "style": "Massive, bold, uppercase sans-serif, Navy Blue, stacked and left-aligned."
+      },
+      "sub_title": {
+        "text": "Fast-track Online Programs",
+        "style": "Medium, bold sans-serif, White text inside a Navy Blue banner."
+      }
+    },
+    "program_grid": {
+      "items": [
+        "BA", "BBA", "BCom", "BSc",
+        "MA", "MBA", "MCom", "MSc"
+      ],
+      "style": "Organized in a 2x4 grid layout. Navy text on white pill-shaped backgrounds."
+    },
+    "accreditations": {
+      "header": {
+        "text": "ACCREDITED BY",
+        "style": "Small, greyish-blue uppercase text."
+      },
+      "logos": "Row of 5 educational and governmental accreditation seals (including WES)."
+    },
+    "key_selling_points": {
+      "items": [
+        "100%\nONLINE",
+        "EASY\nEMI"
+      ],
+      "style": "Large, bold White text, stacked and separated by a solid vertical white divider line."
+    },
+    "footer_contact": {
+      "text": "Contact Us:\n+971 56 509 4900",
+      "icon": "WhatsApp logo (Green)",
+      "style": "White text, positioned in the bottom left corner."
+    }
+  }
+}
+  },
+  {
+    "id": "education_4",
+    "industryId": "education",
+    "name": "Language School",
+    "imageUrl": "https://e2nybhdgyw.ufs.sh/f/yxRjwgp6sEZi7V2OYyXiW2nCOVIvpRTjZJH30lb69B1mAutP",
+    "designData": [
+  {
+    "image_reference": "Study Medicine in China.jpeg",
+    "design_core": {
+      "type": "Educational Promotional Advertisement",
+      "industry": "Education Consulting / Study Abroad",
+      "brand_name": "Qadri International",
+      "theme": "Guidance, Ambition, and Academic Success",
+      "visual_style": "Minimalist, Conceptual Photo-composite",
+      "color_palette": {
+        "background_primary": "White with a subtle light grey dot grid pattern",
+        "typography_primary": "Dark Charcoal/Black and Royal Blue",
+        "accents": "Mustard Yellow/Gold (for the badge outline and ribbon)"
+      }
+    },
+    "visual_composition": {
+      "background_layer": {
+        "elements": "Clean white background featuring a very faint, minimalist dot grid pattern to provide a structured, academic, and modern feel."
+      },
+      "hero_element": {
+        "description": "A young male student viewed from behind, wearing a white t-shirt, blue jeans, and carrying a black backpack.",
+        "action": "He is mid-step, actively climbing up a tall wooden ladder.",
+        "placement": "Left side of the composition, drawing the eye upwards from the bottom edge."
+      },
+      "graphic_overlays": {
+        "floating_cap": {
+          "object": "Black graduation cap (mortarboard) with a black tassel.",
+          "position": "Floating in the air just above the top of the ladder, serving as the visual 'goal' or achievement the student is climbing towards."
+        },
+        "experience_badge": {
+          "description": "A minimalist badge consisting of a yellow-outlined arch shape attached to a yellow-outlined ribbon pointing to the right.",
+          "placement": "Center-right, directly below the main headline."
+        }
+      }
+    },
+    "typography_and_text": {
+      "logo_area": {
+        "placement": "Top right corner",
+        "text": "QADRI INTERNATIONAL",
+        "style": "Blue and black text with a stylized 'Q' logo that incorporates a graduation cap and an orange swoosh."
+      },
+      "headlines": {
+        "main_title": {
+          "text": "THE RIGHT\nGUIDANCE IS\nYOUR LADDER\nTO SUCCESS.",
+          "style": "Massive, bold, uppercase condensed sans-serif. The words 'GUIDANCE' and 'SUCCESS.' are highlighted in Royal Blue, while the rest is Dark Charcoal.",
+          "alignment": "Left-aligned text block, occupying the right half of the image."
+        }
+      },
+      "badge_text": {
+        "number": {
+          "text": "39",
+          "style": "Large, bold, dark charcoal numbers placed inside the yellow arched shape."
+        },
+        "description": {
+          "text": "Years of Guidance,\nSuccessfully Completed",
+          "style": "Small, clean sans-serif text placed inside the adjacent ribbon."
+        }
+      },
+      "call_to_action": {
+        "text": "DM 'GUIDANCE' to start climbing today!",
+        "style": "Medium-weight, clean sans-serif text located at the bottom right. The word 'GUIDANCE' is highlighted in Royal Blue to emphasize the keyword."
+      }
+    }
+  }
+]
+  },
+  {
+    "id": "education_5",
+    "industryId": "education",
+    "name": "Admissions Flyer",
+    "imageUrl": "https://e2nybhdgyw.ufs.sh/f/yxRjwgp6sEZiHm5DPtx0GUbkyNpMPut8ZDXhaQm9wICR4qog",
+    "designData":{
+  "design_core": {
+    "type": "Educational Social Media Post / Admissions Flyer",
+    "industry": "Education / High School",
+    "brand_name": "International School Patna (ISP)",
+    "theme": "Student Ambition and Admissions",
+    "visual_style": "Photo Collage, Clean Corporate Educational, Split-Color Layout",
+    "color_palette": {
+      "background_primary": "White and Vibrant Green (Emerald/Kelly Green)",
+      "typography_primary": "Black, White, and Green",
+      "accents": "Subtle shadows for the photo borders to create depth"
+    }
+  },
+  "visual_composition": {
+    "background_layer": {
+      "elements": "The top half is white, featuring a large green semi-circle curve that frames the headline text. There is also a very faint, faded background photo of students in the upper white section. The bottom half is a solid vibrant green, separated from the white by a textured 'torn-paper' or rough brush-stroke edge."
+    },
+    "hero_element": {
+      "description": "A dynamic collage of three overlapping 'Polaroid-style' photographs showcasing student life.",
+      "left_photo": "Students in a science lab, conducting an experiment with a blue liquid.",
+      "center_photo": "A group of happy, smiling students in school uniform facing the camera.",
+      "right_photo": "Students chatting and smiling in a school hallway.",
+      "placement": "Centered, bridging the white and green background sections to tie the layout together."
+    },
+    "graphic_overlays": {
+      "top_right_pattern": "A minimalist grid of small black dots (dot matrix).",
+      "click_icon": "A white outlined icon of a hand pointing/clicking, placed near the CTA button."
+    }
+  },
+  "typography_and_text": {
+    "logo_area": {
+      "placement": "Top left corner",
+      "text": "We Care / GS / INTERNATIONAL SCHOOL",
+      "style": "Shield emblem logo in green and white."
+    },
+    "headlines": {
+      "line_1": {
+        "text": "You've got dreams.",
+        "style": "Medium-weight black sans-serif."
+      },
+      "line_2": {
+        "text": "We've Got Direction.",
+        "style": "Bold sans-serif. 'We've' is black, 'Got Direction.' is highlighted in Green."
+      },
+      "line_3": {
+        "text": "Let's shape the future at ISP.",
+        "style": "Medium green sans-serif with a rough, hand-drawn style black underline beneath 'future at ISP.'"
+      },
+      "placement": "Top center, resting inside the upper white space."
+    },
+    "admissions_details": {
+      "class_info": {
+        "text": "Class 11",
+        "style": "Large typography. 'Class' is white, '11' is green, placed inside a white rounded square."
+      },
+      "status": {
+        "text": "Admissions\nOpen 2025-26",
+        "style": "White text with the year highlighted in a soft cream/yellow tint, stacked in the bottom green section."
+      }
+    },
+    "call_to_action": {
+      "text": "Apply Now",
+      "style": "Black text on a slightly tilted white rectangular banner with a drop shadow, positioned on the right side."
+    },
+    "footer": {
+      "text": "internationalschoolpatna.co.in",
+      "style": "Clean white sans-serif text, centered at the very bottom."
+    }
+  }
+}
+  }
+]

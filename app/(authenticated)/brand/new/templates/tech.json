@@ -1,0 +1,67 @@
+[
+  {
+    "id": "tech_1",
+    "industryId": "tech",
+    "name": "SaaS Product",
+    "imageUrl": "/templates/tech/1.jpg",
+    "designData": {
+      "style": "modern",
+      "layout": "dashboard",
+      "composition": "clean_interface",
+      "mood": "professional",
+      "elements": ["gradient_bg", "glass_morphism", "sans_modern"]
+    }
+  },
+  {
+    "id": "tech_2",
+    "industryId": "tech",
+    "name": "App Launch",
+    "imageUrl": "/templates/tech/2.jpg",
+    "designData": {
+      "style": "bold",
+      "layout": "device_mockup",
+      "composition": "hero_shot",
+      "mood": "exciting",
+      "elements": ["phone_frame", "vibrant_gradient", "download_cta"]
+    }
+  },
+  {
+    "id": "tech_3",
+    "industryId": "tech",
+    "name": "AI Platform",
+    "imageUrl": "/templates/tech/3.jpg",
+    "designData": {
+      "style": "futuristic",
+      "layout": "tech_grid",
+      "composition": "data_driven",
+      "mood": "innovative",
+      "elements": ["neon_accents", "dark_mode", "circuit_patterns"]
+    }
+  },
+  {
+    "id": "tech_4",
+    "industryId": "tech",
+    "name": "Developer Tool",
+    "imageUrl": "/templates/tech/4.jpg",
+    "designData": {
+      "style": "technical",
+      "layout": "code_editor",
+      "composition": "functional",
+      "mood": "focused",
+      "elements": ["syntax_highlight", "terminal_aesthetic", "monospace"]
+    }
+  },
+  {
+    "id": "tech_5",
+    "industryId": "tech",
+    "name": "Startup Pitch",
+    "imageUrl": "/templates/tech/5.jpg",
+    "designData": {
+      "style": "minimal",
+      "layout": "pitch_deck",
+      "composition": "investor_ready",
+      "mood": "ambitious",
+      "elements": ["clean_charts", "bold_numbers", "growth_visuals"]
+    }
+  }
+]

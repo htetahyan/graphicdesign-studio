@@ -1,0 +1,67 @@
+[
+  {
+    "id": "travel_1",
+    "industryId": "travel",
+    "name": "Tropical Paradise",
+    "imageUrl": "/templates/travel/1.jpg",
+    "designData": {
+      "style": "exotic",
+      "layout": "full_bleed",
+      "composition": "breathtaking",
+      "mood": "dreamy",
+      "elements": ["turquoise_waters", "palm_silhouettes", "wanderlust_text"]
+    }
+  },
+  {
+    "id": "travel_2",
+    "industryId": "travel",
+    "name": "City Break",
+    "imageUrl": "/templates/travel/2.jpg",
+    "designData": {
+      "style": "urban",
+      "layout": "collage",
+      "composition": "dynamic",
+      "mood": "adventurous",
+      "elements": ["skyline", "landmark_icons", "modern_type"]
+    }
+  },
+  {
+    "id": "travel_3",
+    "industryId": "travel",
+    "name": "Mountain Adventure",
+    "imageUrl": "/templates/travel/3.jpg",
+    "designData": {
+      "style": "rugged",
+      "layout": "epic_landscape",
+      "composition": "grand",
+      "mood": "inspiring",
+      "elements": ["snow_peaks", "forest_tones", "bold_headline"]
+    }
+  },
+  {
+    "id": "travel_4",
+    "industryId": "travel",
+    "name": "Cultural Tour",
+    "imageUrl": "/templates/travel/4.jpg",
+    "designData": {
+      "style": "cultural",
+      "layout": "editorial",
+      "composition": "storytelling",
+      "mood": "enriching",
+      "elements": ["heritage_patterns", "warm_palette", "script_accents"]
+    }
+  },
+  {
+    "id": "travel_5",
+    "industryId": "travel",
+    "name": "Luxury Escape",
+    "imageUrl": "/templates/travel/5.jpg",
+    "designData": {
+      "style": "luxury",
+      "layout": "elegant",
+      "composition": "sophisticated",
+      "mood": "exclusive",
+      "elements": ["gold_accents", "serif_elegant", "spa_imagery"]
+    }
+  }
+]

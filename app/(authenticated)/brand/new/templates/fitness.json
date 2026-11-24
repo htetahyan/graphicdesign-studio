@@ -1,0 +1,67 @@
+[
+  {
+    "id": "fitness_1",
+    "industryId": "fitness",
+    "name": "Gym Power",
+    "imageUrl": "/templates/fitness/1.jpg",
+    "designData": {
+      "style": "bold",
+      "layout": "dynamic",
+      "composition": "energetic",
+      "mood": "powerful",
+      "elements": ["dark_theme", "neon_accent", "strong_type"]
+    }
+  },
+  {
+    "id": "fitness_2",
+    "industryId": "fitness",
+    "name": "Yoga Studio",
+    "imageUrl": "/templates/fitness/2.jpg",
+    "designData": {
+      "style": "serene",
+      "layout": "balanced",
+      "composition": "peaceful",
+      "mood": "calm",
+      "elements": ["soft_pastels", "organic_shapes", "light_type"]
+    }
+  },
+  {
+    "id": "fitness_3",
+    "industryId": "fitness",
+    "name": "CrossFit Intense",
+    "imageUrl": "/templates/fitness/3.jpg",
+    "designData": {
+      "style": "intense",
+      "layout": "action_shot",
+      "composition": "gritty",
+      "mood": "hardcore",
+      "elements": ["industrial", "bold_graphics", "impact_type"]
+    }
+  },
+  {
+    "id": "fitness_4",
+    "industryId": "fitness",
+    "name": "Personal Training",
+    "imageUrl": "/templates/fitness/4.jpg",
+    "designData": {
+      "style": "motivational",
+      "layout": "transformation",
+      "composition": "before_after",
+      "mood": "inspiring",
+      "elements": ["progress_visuals", "encouraging_text", "achievement_badges"]
+    }
+  },
+  {
+    "id": "fitness_5",
+    "industryId": "fitness",
+    "name": "Wellness Center",
+    "imageUrl": "/templates/fitness/5.jpg",
+    "designData": {
+      "style": "holistic",
+      "layout": "lifestyle",
+      "composition": "balanced_life",
+      "mood": "healthy",
+      "elements": ["natural_tones", "wellness_icons", "clean_layout"]
+    }
+  }
+]

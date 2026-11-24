@@ -1,0 +1,67 @@
+[
+  {
+    "id": "rest_1",
+    "industryId": "restaurant",
+    "name": "Spicy Bold Promo",
+    "imageUrl": "/templates/restaurant/1.jpg",
+    "designData": {
+      "style": "bold",
+      "layout": "center_focus",
+      "composition": "full_bleed",
+      "mood": "energetic",
+      "elements": ["large_type", "warm_tones", "product_hero"]
+    }
+  },
+  {
+    "id": "rest_2",
+    "industryId": "restaurant",
+    "name": "Elegant Dine-in",
+    "imageUrl": "/templates/restaurant/2.jpg",
+    "designData": {
+      "style": "elegant",
+      "layout": "split_left",
+      "composition": "rule_of_thirds",
+      "mood": "sophisticated",
+      "elements": ["dark_background", "serif_headline", "subtle_texture"]
+    }
+  },
+  {
+    "id": "rest_3",
+    "industryId": "restaurant",
+    "name": "Fast Food Pop",
+    "imageUrl": "/templates/restaurant/3.jpg",
+    "designData": {
+      "style": "pop_art",
+      "layout": "dynamic_diagonal",
+      "composition": "asymmetric",
+      "mood": "fun",
+      "elements": ["vibrant_shapes", "sans_bold", "icon_burst"]
+    }
+  },
+  {
+    "id": "rest_4",
+    "industryId": "restaurant",
+    "name": "Organic & Fresh",
+    "imageUrl": "/templates/restaurant/4.jpg",
+    "designData": {
+      "style": "natural",
+      "layout": "top_heavy",
+      "composition": "centered",
+      "mood": "calm",
+      "elements": ["greenery", "soft_light", "hand_drawn_accent"]
+    }
+  },
+  {
+    "id": "rest_5",
+    "industryId": "restaurant",
+    "name": "Minimal Plate",
+    "imageUrl": "/templates/restaurant/5.jpg",
+    "designData": {
+      "style": "minimal",
+      "layout": "whitespace_heavy",
+      "composition": "lower_third",
+      "mood": "clean",
+      "elements": ["pastel_bg", "thin_type", "single_product"]
+    }
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1777801732503,
+      "tag": "0000_odd_adam_warlock",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1778800000000,
+      "tag": "0001_agency_campaign_pack",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1792450000000,
+      "tag": "0002_design_sessions",
+      "breakpoints": true
+    }
+  ]
+}

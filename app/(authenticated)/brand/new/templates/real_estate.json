@@ -1,0 +1,67 @@
+[
+  {
+    "id": "real_estate_1",
+    "industryId": "real_estate",
+    "name": "Luxury Listing",
+    "imageUrl": "/templates/real_estate/1.jpg",
+    "designData": {
+      "style": "luxury",
+      "layout": "full_bleed",
+      "composition": "grand",
+      "mood": "premium",
+      "elements": ["gold_trim", "serif_elegant", "dark_overlay"]
+    }
+  },
+  {
+    "id": "real_estate_2",
+    "industryId": "real_estate",
+    "name": "Modern Condo",
+    "imageUrl": "/templates/real_estate/2.jpg",
+    "designData": {
+      "style": "modern",
+      "layout": "split",
+      "composition": "clean_lines",
+      "mood": "contemporary",
+      "elements": ["white_space", "sans_modern", "geometric"]
+    }
+  },
+  {
+    "id": "real_estate_3",
+    "industryId": "real_estate",
+    "name": "Family Home",
+    "imageUrl": "/templates/real_estate/3.jpg",
+    "designData": {
+      "style": "warm",
+      "layout": "inviting",
+      "composition": "cozy",
+      "mood": "welcoming",
+      "elements": ["warm_tones", "soft_edges", "friendly_type"]
+    }
+  },
+  {
+    "id": "real_estate_4",
+    "industryId": "real_estate",
+    "name": "Commercial Property",
+    "imageUrl": "/templates/real_estate/4.jpg",
+    "designData": {
+      "style": "professional",
+      "layout": "structured",
+      "composition": "corporate",
+      "mood": "business",
+      "elements": ["blue_tones", "clean_grid", "data_overlay"]
+    }
+  },
+  {
+    "id": "real_estate_5",
+    "industryId": "real_estate",
+    "name": "Open House",
+    "imageUrl": "/templates/real_estate/5.jpg",
+    "designData": {
+      "style": "inviting",
+      "layout": "feature_highlight",
+      "composition": "welcoming",
+      "mood": "exciting",
+      "elements": ["bright_colors", "call_to_action", "event_details"]
+    }
+  }
+]

@@ -1,0 +1,40 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1200" y2="800" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#EFF6FF"/>
+      <stop offset="0.52" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#EEF2FF"/>
+    </linearGradient>
+    <radialGradient id="r1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(220 210) rotate(25) scale(520 420)">
+      <stop stop-color="#60A5FA" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#60A5FA" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="r2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(980 600) rotate(-12) scale(560 440)">
+      <stop stop-color="#818CF8" stop-opacity="0.30"/>
+      <stop offset="1" stop-color="#818CF8" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="blur" x="-200" y="-200" width="1600" height="1200" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="22"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="800" fill="url(#g1)"/>
+
+  <g filter="url(#blur)">
+    <path d="M105 350C220 230 360 170 480 210C640 265 710 170 840 160C1010 148 1140 265 1170 400C1195 515 1120 650 950 690C800 728 680 640 560 610C440 582 290 610 180 530C75 466 35 410 105 350Z" fill="url(#r1)"/>
+    <path d="M690 140C815 65 970 70 1080 160C1185 245 1215 365 1165 470C1110 585 980 650 860 625C740 600 700 510 595 470C495 432 360 455 295 350C235 262 300 140 430 105C545 75 610 190 690 140Z" fill="url(#r2)"/>
+  </g>
+
+  <g opacity="0.08">
+    <circle cx="190" cy="170" r="2" fill="#111827"/>
+    <circle cx="265" cy="240" r="2" fill="#111827"/>
+    <circle cx="340" cy="175" r="2" fill="#111827"/>
+    <circle cx="455" cy="260" r="2" fill="#111827"/>
+    <circle cx="530" cy="190" r="2" fill="#111827"/>
+    <circle cx="1030" cy="590" r="2" fill="#111827"/>
+    <circle cx="965" cy="515" r="2" fill="#111827"/>
+    <circle cx="890" cy="610" r="2" fill="#111827"/>
+    <circle cx="815" cy="535" r="2" fill="#111827"/>
+    <circle cx="740" cy="610" r="2" fill="#111827"/>
+  </g>
+</svg>

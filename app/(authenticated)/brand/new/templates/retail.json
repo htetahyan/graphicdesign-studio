@@ -1,0 +1,67 @@
+[
+  {
+    "id": "retail_1",
+    "industryId": "retail",
+    "name": "Sale Banner",
+    "imageUrl": "/templates/retail/1.jpg",
+    "designData": {
+      "style": "promotional",
+      "layout": "bold_center",
+      "composition": "attention_grabbing",
+      "mood": "urgent",
+      "elements": ["red_accent", "large_percent", "countdown"]
+    }
+  },
+  {
+    "id": "retail_2",
+    "industryId": "retail",
+    "name": "Product Grid",
+    "imageUrl": "/templates/retail/2.jpg",
+    "designData": {
+      "style": "catalog",
+      "layout": "grid_3x3",
+      "composition": "organized",
+      "mood": "shopping",
+      "elements": ["white_bg", "product_cards", "price_tags"]
+    }
+  },
+  {
+    "id": "retail_3",
+    "industryId": "retail",
+    "name": "New Arrival",
+    "imageUrl": "/templates/retail/3.jpg",
+    "designData": {
+      "style": "modern",
+      "layout": "hero_product",
+      "composition": "spotlight",
+      "mood": "exciting",
+      "elements": ["gradient_bg", "badge_new", "clean_type"]
+    }
+  },
+  {
+    "id": "retail_4",
+    "industryId": "retail",
+    "name": "Seasonal Promo",
+    "imageUrl": "/templates/retail/4.jpg",
+    "designData": {
+      "style": "festive",
+      "layout": "themed",
+      "composition": "decorative",
+      "mood": "celebratory",
+      "elements": ["seasonal_icons", "warm_palette", "playful_type"]
+    }
+  },
+  {
+    "id": "retail_5",
+    "industryId": "retail",
+    "name": "Minimal Store",
+    "imageUrl": "/templates/retail/5.jpg",
+    "designData": {
+      "style": "minimal",
+      "layout": "clean",
+      "composition": "spacious",
+      "mood": "calm",
+      "elements": ["lots_white", "subtle_shadows", "elegant_type"]
+    }
+  }
+]

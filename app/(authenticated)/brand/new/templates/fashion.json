@@ -1,0 +1,67 @@
+[
+  {
+    "id": "fashion_1",
+    "industryId": "fashion",
+    "name": "Editorial Look",
+    "imageUrl": "/templates/fashion/1.jpg",
+    "designData": {
+      "style": "editorial",
+      "layout": "magazine_spread",
+      "composition": "portrait_dominant",
+      "mood": "artistic",
+      "elements": ["white_space", "serif_display", "oversized_type"]
+    }
+  },
+  {
+    "id": "fashion_2",
+    "industryId": "fashion",
+    "name": "Streetwear Drop",
+    "imageUrl": "/templates/fashion/2.jpg",
+    "designData": {
+      "style": "street",
+      "layout": "asymmetrical",
+      "composition": "tilted_grid",
+      "mood": "raw",
+      "elements": ["grunge_texture", "monochrome", "sticker_accent"]
+    }
+  },
+  {
+    "id": "fashion_3",
+    "industryId": "fashion",
+    "name": "Minimal Chic",
+    "imageUrl": "/templates/fashion/3.jpg",
+    "designData": {
+      "style": "minimal",
+      "layout": "centered",
+      "composition": "negative_space",
+      "mood": "refined",
+      "elements": ["beige_tones", "thin_lines", "modern_serif"]
+    }
+  },
+  {
+    "id": "fashion_4",
+    "industryId": "fashion",
+    "name": "Retro Vintage",
+    "imageUrl": "/templates/fashion/4.jpg",
+    "designData": {
+      "style": "vintage",
+      "layout": "collage",
+      "composition": "layered",
+      "mood": "nostalgic",
+      "elements": ["sepia_tone", "film_grain", "retro_type"]
+    }
+  },
+  {
+    "id": "fashion_5",
+    "industryId": "fashion",
+    "name": "High Fashion",
+    "imageUrl": "/templates/fashion/5.jpg",
+    "designData": {
+      "style": "luxury",
+      "layout": "dramatic",
+      "composition": "asymmetric",
+      "mood": "bold",
+      "elements": ["black_gold", "geometric", "avant_garde"]
+    }
+  }
+]

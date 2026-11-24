@@ -1,0 +1,328 @@
+[
+  {
+    "id": "beauty_1",
+    "industryId": "beauty",
+    "name": "Skincare Product Advertisement",
+    "imageUrl": "https://e2nybhdgyw.ufs.sh/f/yxRjwgp6sEZik6v8jhES6uT8cIFnpBPZhHWXqLKDdoGaUJ3b",
+    "designData": {
+      "design_core": {
+        "type": "Skincare Product Advertisement",
+        "industry": "Beauty & Skincare",
+        "brand_name": "OJA Botanics",
+        "product_name": "Kurikoottu Herbal Face Pack",
+        "visual_style": "Minimalist, Natural, Clean",
+        "color_palette": {
+          "background": "Warm Beige/Sand with a subtle wavy pattern",
+          "text_primary": "Dark Brown (e.g., for 'Start Your Skin Reset.')",
+          "text_secondary": "Muted Gold/Brown (e.g., for 'These are not flaws')",
+          "accents": "White (for call-to-action button text and 'OG GLOW GOD' badge text)"
+        }
+      },
+      "visual_composition": {
+        "background_layer": {
+          "elements": "Soft, flowing, organic wave pattern in a slightly darker beige tone across the bottom half of the background."
+        },
+        "hero_element": {
+          "description": "Split-face portrait of a young woman with dark hair.",
+          "left_side": {
+            "condition": "Shows skin concerns: oily T-zone, uneven patches, tanning, and textured skin on the cheek.",
+            "annotations": "Four white lines with circles pointing to specific areas with text labels: 'Oily here?', 'Uneven here?', 'Tanned here?', 'Texture here?'."
+          },
+          "right_side": {
+            "condition": "Shows clear, smooth, and radiant skin.",
+            "product_placement": "A jar of 'Kurikoottu Herbal Face Pack' is positioned next to her clear cheek, implying the cause of the transformation.",
+            "product_details": "The jar is glass with a golden lid and a label featuring the brand name, product name 'Kurikoottu', and 'Herbal Face Pack'."
+          }
+        },
+        "graphic_overlays": {
+          "logo_top": {
+            "text": "OJA Botanics",
+            "tagline": "PURE. POTENT. PRISTINE.",
+            "icon": "A stylized leaf inside a circle, placed to the right of the text."
+          },
+          "badge_bottom_left": {
+            "shape": "Rectangular badge with rounded corners and a star icon.",
+            "text": "OG + GLOW + GOD",
+            "style": "White outline and text on the beige background."
+          }
+        }
+      },
+      "typography_and_text": {
+        "headlines": {
+          "main_title": {
+            "text": "These are not flaws\nThese are signals\nStart Your Skin Reset.",
+            "style": "The first two lines are in a lighter, muted brown. The final line, 'Start Your Skin Reset.', is larger and in a prominent dark brown, creating a strong contrast and call to action."
+          }
+        },
+        "call_to_action": {
+          "button": {
+            "text": "Try it now",
+            "shape": "Rounded rectangle button with a white border and text.",
+            "placement": "Bottom right."
+          },
+          "website": {
+            "text": "ojabotanics.com",
+            "placement": "Below the 'Try it now' button."
+          }
+        },
+        "annotation_labels": {
+          "style": "Clean, simple sans-serif font in white."
+        }
+      }
+    }
+  },
+  {
+    "id": "beauty_2",
+    "industryId": "beauty",
+    "name": "Promotional Ad",
+    "imageUrl": "https://e2nybhdgyw.ufs.sh/f/yxRjwgp6sEZi4GDT450oy2OQYuksHMfGLWCZUS8w3iplrTID",
+    "designData": {
+      "design_core": {
+        "type": "Social Media Promotional Ad / B2B Manufacturing Concept",
+        "industry": "Cosmetics Manufacturing (OEM/ODM)",
+        "brand_name": "Vimac",
+        "theme": "Lightweight & Tone-Up UV Protection",
+        "visual_style": "High-End 3D Product Render (Clean, Ethereal, Bright)",
+        "color_palette": {
+          "background": "Soft gradient transitioning from Warm Summer Yellow (#FFF9C4) to Crisp Autumn Peach/White (#FFE0B2)",
+          "product_accent": "Rose Gold and Frosted Glass for the serum bottle",
+          "text_primary": "Deep Charcoal/Navy (#333333) for readability",
+          "highlight": "Vibrant Coral/Pink for 'Nâng Tone' (Tone-Up) emphasis"
+        }
+      },
+      "visual_composition": {
+        "background_layer": {
+          "elements": "A seamlessly divided background. The left side features subtle, glowing sun rays (representing harsh Summer). The right side features a soft, translucent autumn leaf casting a gentle shadow (representing clear Autumn).",
+          "lighting": "Bright, airy, natural sunlight effect to emphasize the 'mỏng nhẹ' (lightweight) feel of the product."
+        },
+        "hero_element_3d": {
+          "object": "Vimac Sunscreen Serum Bottle",
+          "description": "A sleek, premium frosted glass dropper or pump bottle sitting centrally on a pristine white marble podium.",
+          "texture_detail": "A styled smear of the actual serum texture is visible beside the bottle—showing it as a milky, lightweight fluid with a slight pinkish tint to visualize the 'Tone-Up' effect."
+        },
+        "floating_props": [
+          {
+            "object": "UV Shield Indicator",
+            "description": "A translucent, glowing 3D shield or dome gently enveloping the bottle, symbolizing absolute UV protection."
+          },
+          {
+            "object": "White Feather",
+            "description": "A delicate white feather gently floating in the background, reinforcing the weightless/lightweight texture."
+          }
+        ]
+      },
+      "typography_hierarchy": {
+        "main_headline": {
+          "text": "Gia Công Serum Chống Nắng\nMỏng Nhẹ, Nâng Tone",
+          "english_meaning": "Manufacturing Lightweight, Tone-Up Sunscreen Serum",
+          "style": "Elegant, modern sans-serif. The words 'Mỏng Nhẹ, Nâng Tone' are highlighted in a glowing Rose Gold color to draw the eye."
+        },
+        "sub_headline": {
+          "text": "Dù ngày Hè nắng gắt hay tiết Thu trong vắt... Tia UV vẫn luôn hiện diện.",
+          "english_meaning": "Whether harsh summer sun or clear autumn days... UV rays are always present.",
+          "style": "Medium weight, italicized for a smooth, informative tone."
+        },
+        "solution_statement": {
+          "text": "Serum chống nắng Vimac - Lựa chọn vô cùng sáng suốt!",
+          "english_meaning": "Vimac Sunscreen Serum - An incredibly wise choice!",
+          "style": "Bold, clean font encased in a soft, pill-shaped badge at the bottom center."
+        }
+      },
+      "marketing_focus": {
+        "strategy": "Visualizing a year-round necessity. By showcasing both Summer and Autumn lighting, the design communicates to potential cosmetic clients that this 'Vimac' formula is a versatile, all-season product for their brand."
+      }
+    }
+  },
+  {
+    "id": "beauty_3",
+    "industryId": "beauty",
+    "name": "Product Advertisement",
+    "imageUrl": "https://e2nybhdgyw.ufs.sh/f/yxRjwgp6sEZi2BsOmxSRdDHYUTSAjOamsopGe4Blc52Wziwv",
+    "designData": {
+  "design_core": {
+    "type": "Product Advertisement",
+    "industry": "Personal Care & Skincare",
+    "brand_name": "Dove",
+    "product_name": "Body Love Restoring Care Hand Cream",
+    "visual_style": "Dynamic 3D Composite / Studio Product Shot",
+    "color_palette": {
+      "background": "Soft white to light grey gradient",
+      "typography_primary": "Solid Black (#000000) for maximum contrast",
+      "brand_colors": "Dove Blue (#0033A0) and Metallic Gold/Bronze",
+      "organic_tones": "Earthy browns, warm beiges (almonds/coconut), and vibrant green (leaves)"
+    }
+  },
+  "visual_composition": {
+    "background_layer": {
+      "elements": "Clean studio backdrop dominated by a massive, bold typographic element ('CREAM') that grounds the floating composition."
+    },
+    "hero_element": {
+      "description": "A tube of Dove Restoring Care Hand Cream",
+      "position": "Tilted diagonally across the center of the frame, creating dynamic movement.",
+      "details": "The tube features the gold Dove 'Body Love' heart and bird logo, with a brown color band indicating the coconut/almond variant."
+    },
+    "floating_props": [
+      {
+        "object": "Milk/Cream Splash",
+        "description": "A stylized, fluid splash of white cream erupting from behind the top half of the tube, visually representing the 'almond milk' ingredient and smooth texture."
+      },
+      {
+        "object": "Flying Almonds",
+        "description": "Several whole, raw almonds dynamically bursting out from the cream splash."
+      },
+      {
+        "object": "Halved Coconut",
+        "description": "A realistic, textured half-coconut resting at the bottom center, anchoring the composition.",
+        "accents": "A couple of bright green palm/fern fronds sprouting from behind the coconut to add freshness."
+      }
+    ]
+  },
+  "typography_and_text": {
+    "background_typography": {
+      "text": "CREAM",
+      "style": "Giant, bold, uppercase sans-serif in solid black, partially obscured by the 3D elements."
+    },
+    "informational_text": {
+      "top_left": {
+        "title": "Body Love Restoring Care Hand Cream",
+        "body": "Help restore dry hands with our nourishing coconut oil and almond milk-infused hand cream, inspired by Indian rituals.",
+        "style": "Clean, medium-weight grey/black sans-serif."
+      },
+      "bottom_left_badge": {
+        "text_main": "75 ml",
+        "text_sub": "product volume",
+        "border_text": "This product is cargo certified • This product is cargo certified •",
+        "style": "Circular stamp/badge design."
+      },
+      "bottom_right_ingredients": {
+        "items": [
+          "[1] Coconut Oil Extract",
+          "[2] Almond Milk"
+        ],
+        "style": "Minimalist, stacked list with brackets."
+      },
+      "bottom_left_corner": {
+        "text": "For dry skin",
+        "style": "Light grey sans-serif."
+      }
+    },
+    "brand_logos": {
+      "top_right": "Dove logo in classic blue",
+      "on_product": "Dove logo in blue, 'body love' in gold with heart/bird emblem."
+    }
+  }
+}
+  },
+  {
+    "id": "beauty_4",
+    "industryId": "beauty",
+    "name": "Hydrafacial Treatment",
+    "imageUrl": "https://e2nybhdgyw.ufs.sh/f/yxRjwgp6sEZiCjriL92mNM4qRBnW96bJAzxD5fZuPoiHeSg3",
+    "designData": {
+  "design_core": {
+    "type": "Service Promotional Advertisement",
+    "industry": "Beauty & Aesthetics / Skincare Clinic",
+    "brand_name": "RARE Aesthetic Studio",
+    "visual_style": "Minimalist, Clean, Clinical yet Luxurious",
+    "color_palette": {
+      "background": "Soft warm beige/cream",
+      "typography_primary": "Dark warm brown",
+      "accents": "Crisp white and off-white (spa towel, gloves, and device)"
+    }
+  },
+  "visual_composition": {
+    "background_layer": {
+      "elements": "Solid, untextured warm beige studio backdrop designed to create a calming, premium atmosphere while providing ample negative space for the text."
+    },
+    "hero_element": {
+      "description": "Close-up profile portrait of a relaxed woman receiving a facial treatment.",
+      "pose": "Lying down with eyes closed, facing upwards and slightly to the left.",
+      "details": "The subject is wearing a white terry cloth spa headband. Her facial skin is visibly coated with a smooth, semi-transparent treatment gel or serum. A practitioner's hand, wearing off-white medical gloves, holds a sleek white Hydrafacial wand device, pressing it gently against the subject's forehead."
+    }
+  },
+  "typography_and_text": {
+    "logo_area": {
+      "placement": "Top left corner",
+      "icon": "Minimalist line-art geometric flower/lotus design",
+      "text": "RARE\nAESTHETIC STUDIO",
+      "style": "Clean, modern sans-serif in dark brown."
+    },
+    "headlines": {
+      "lead_in": {
+        "text": "Get The Glow With",
+        "style": "Medium-weight sans-serif, dark brown, smaller font size."
+      },
+      "main_title": {
+        "text": "Hydrafacial\nTreatment",
+        "style": "Bold, large-scale sans-serif, dark brown, stacked on two lines."
+      },
+      "placement": "Left-aligned, positioned naturally in the upper-middle negative space above the subject's face."
+    }
+  }
+}
+  },
+  {
+    "id": "beauty_5",
+    "industryId": "beauty",
+    "name": "Clean Skincare",
+    "imageUrl": "https://e2nybhdgyw.ufs.sh/f/yxRjwgp6sEZiGtWJ6MVHuCJqaioePzIjBc0TwnpKfh34ELOW",
+    "designData": {
+  "design_core": {
+    "type": "Product Advertisement / Infographic",
+    "industry": "Beauty & Cosmetics",
+    "brand_name": "LUMIÉRE",
+    "product_name": "Блеск для губ (Lip Gloss)",
+    "visual_style": "Minimalist, Clean, Editorial Beauty",
+    "color_palette": {
+      "background": "Soft off-white / light greyish-pink",
+      "typography_primary": "Solid Black and Dark Grey",
+      "product_accents": "Dusty rose / nude pink (product tube, lip color, and texture swatch)"
+    }
+  },
+  "visual_composition": {
+    "background_layer": {
+      "elements": "Solid, untextured soft off-white studio backdrop designed to keep the focus entirely on the product texture and the model's features."
+    },
+    "hero_element": {
+      "description": "Close-up beauty portrait of a woman (right half of the face visible) with glowing skin and highly glossy, nude-pink lips.",
+      "pose": "Looking directly at the camera. Her hand is elegantly holding the matte pink cylindrical lip gloss tube in the foreground, creating depth.",
+      "placement": "Right side and lower center."
+    },
+    "graphic_overlays": {
+      "product_swatch": {
+        "description": "A realistic, glossy smear of the lip gloss shade floating in the middle-left negative space.",
+        "accents": "Framed by four thin, minimalist black corner crop marks."
+      }
+    }
+  },
+  "typography_and_text": {
+    "brand_badge": {
+      "placement": "Top left corner",
+      "text": "LUMIÉRE",
+      "style": "Black sans-serif text inside a dusty rose, slightly metallic-looking rectangular badge with rounded corners."
+    },
+    "headlines": {
+      "main_title": {
+        "text": "БЛЕСК\nдля губ",
+        "english_meaning": "Lip Gloss",
+        "style": "Large, bold, uppercase sans-serif for 'БЛЕСК', followed by medium-weight sans-serif for 'для губ'. Solid black."
+      }
+    },
+    "body_copy": {
+      "text": "Совершенный нюд для безупречного\nмакияжа на каждый день.",
+      "english_meaning": "The perfect nude for flawless everyday makeup.",
+      "style": "Clean, light sans-serif, dark grey, positioned below the headline."
+    },
+    "swatch_label": {
+      "text": "ТОН 05",
+      "english_meaning": "TONE 05",
+      "style": "Small, clean sans-serif text centered directly above the glossy swatch."
+    },
+    "product_packaging": {
+      "text": "LUMIÉRE",
+      "style": "Bold black sans-serif printed vertically along the matte pink tube."
+    }
+  }
+}
+  }
+]
